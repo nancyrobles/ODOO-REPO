@@ -1,0 +1,225 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1550px) {
+    .column-left{
+        margin-top: 15%;
+    }
+
+    .column-rigth{
+        margin-top: 8%;
+    }
+    .custom-card {
+        height: 550px;
+    }
+    .trusted-text {
+        margin-left: -80px;
+    }
+    .img-button-container{
+         top: 1000px; 
+         left: 550px;
+    }
+    .btn-section1 {
+        font-size:14px;
+        height: 30px;
+        width: 80px;
+    }
+    .btn-section2 {
+        font-size:14px;
+        height: 30px;
+        width: 80px;
+
+    }
+
+    #section2 {
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 15%;
+        height: 40vh;
+    }
+
+    .btn-section3 {
+        font-size:14px;
+        font-weight: bold;
+        width: 110px;
+    }
+
+    .btn-section4 {
+        font-size:14px;
+        width: 130px;
+    }
+    #section3 {
+        height: 40vh;
+    }
+
+    #section4 {
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 15%;
+        height: 50vh;
+    }
+    .banner-title{
+        font-size: 18px;
+        padding-bottom: 2%;
+    }
+    .banner-text{
+        font-size: 15px;
+    }
+    .btn-acordeon {
+        width: 90px;
+        font-size: 14px;
+    }
+    .container-acordeon{
+        height: 40vh;
+    }
+
+    #section7 {
+        height: 100vh;
+        background-color: #fff;
+        text-align: center;
+        padding: 100px;
+    }
+
+    footer {
+        height: 60vh; 
+    }
+
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .column-left{
+        margin-top: 45%;
+    }
+
+    .column-rigth{
+        margin-top: 38%;
+    }
+
+    .title{
+        margin-left: -90px;
+        padding-bottom: 10%;
+    }
+    .subtitle{
+        margin-left: -90px;
+        padding-bottom: 10%;
+
+    }
+
+    .white-button {
+        margin-left: -90px;
+        padding-bottom: 10%;   
+     }
+
+
+    .card-section1 {
+  
+    height: 20vh;
+    }
+
+    .col-eq-height{
+        margin-top: 20%;
+    }
+    .btn-img {
+        position: absolute;
+         top: 17px;
+          left: 50px;
+        
+     }
+
+    .card-file1{
+        height: 5vh;
+    }
+
+    .custom-card {
+        height: 550px;
+    }
+    .trusted-text {
+        margin-left: -80px;
+    }
+    .img-button-container{
+         top: 1300px; 
+         left: 370px;
+    }
+    .btn-section1 {
+        font-size:14px;
+        height: 30px;
+        width: 80px;
+    }
+    .btn-section2 {
+        font-size:14px;
+        height: 30px;
+        width: 80px;
+
+    }
+
+    .btn-section3 {
+        font-size:14px;
+        font-weight: bold;
+        width: 110px;
+    }
+
+    .btn-section4 {
+        font-size:14px;
+        width: 130px;
+    }
+    #section3 {
+        height: 40vh;
+    }
+
+    #section4 {
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 15%;
+        height: 30vh;
+    }
+    .banner-title{
+        font-size: 18px;
+        padding-bottom: 2%;
+    }
+    .banner-text{
+        font-size: 15px;
+    }
+    .btn-acordeon {
+        width: 90px;
+        font-size: 14px;
+    }
+
+    #acordeon{
+        height: 30vh;
+    }
+    .container-acordeon{
+        height: 20vh;
+    }
+
+    #section7 {
+        height: 70vh;
+        background-color: #fff;
+        text-align: center;
+        padding: 100px;
+    }
+
+    footer {
+        height: 50vh; 
+    }
+
+    #section2 {
+        width: 60%;
+        margin: 0 auto;
+        margin-top: 15%;
+        height: 20vh;
+    }
+
+    .card-grid {
+        margin-left: -90px;
+    }
+    .card-deck {
+        margin-left: -160px;
+    }
+    .button-container {
+        text-align: center;
+        margin-top: 40px;
+    }
+   
+
+}
