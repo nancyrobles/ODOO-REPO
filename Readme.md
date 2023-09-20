@@ -3,12 +3,12 @@
 <h3 style="color:blue">MAQUETACIÓN WEBSITE 1536 × 907</h3>
 
 <img src="/img/gif1.gif" alt="Gif demostrativo versión web" title="Imagen gif 1">
-
+<br> <br> 
 <h3 style="color:blue">MAQUETACIÓN WEBSITE 992 × 1199</h3>
 
 <img src="/img/gif2.gif" alt="Gif demostrativo versión web 2" title="Imagen gif 2">
 
-
+<br> <br> 
 
 <h2>COMENTARIOS ADICIONALES: </h2> 
 <p>Encuentro este mockup visualmente atractivo y me agrada la armonía y sutileza con la que se han colocado los elementos. 
